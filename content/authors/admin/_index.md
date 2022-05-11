@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Elena Gorpinich
+title: Елена Горпинич
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Student
+role: Студентка
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,19 +14,19 @@ organizations:
     url: https://www.rudn.ru
 
 # Short bio (displayed in user profile at end of posts)
-bio: 1st year student of the Favulty of Physics, Mathematics and Natural Scinces.
+bio: Студентка 1-го курса факультета физико-математических и естественных наук
 
 # Interests to show in About widget
 interests:
-  - Painting
-  - Reading varios literature
+  - Рисование
+  - Чтение различной литературы 
 
 # Education to show in About widget
 education:
   courses:
-    - course: applied mathematics and computer scince
-      institution: RUDN University
-      year: 2021-now
+    - course: прикладная математика и информатика 
+      institution: Российский университет дружбы народов 
+      year: 2021-...
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -54,6 +54,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-First-year student of the Faculty of Physical and Mathematical Sciences. Born 17.08.2003 and spent most of her life in a small town in the Yamalo-Nenets Autonomous Okrug. She studied at the Multidisciplinary Lyceum on the recommendation of Economics and Mathematics, in the summer of 2021 she passed the Unified State Examination in mathematics, computer science and the Russian language with a total of 259 points, and these results helped her to enter the budget at RUDN University in the direction of Applied Mathematics and Informatics.
+Студентка первого курса факультета физико-математических наук. Родилась 17.08.2003 и большую часть жизни провела в маленьком городке в Ямало-Ненецком автономном округе. Училась в Многопрофильном лицее по направлении "Экономика и математика", летом 2021 года сдала ЕГЭ по математике, информатике и русскому языку на 259 баллов, и эти результаты помогли мне поступить на бюджет в РУДН на направление «Прикладная математика и информатика».
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
